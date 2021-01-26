@@ -43,7 +43,7 @@ body {
 
 @media (max-width:900px) {
     #home-container {
-        min-height: 65vh;
+        min-height: 75vh;
         scroll-snap-align: start;
         display: flex;
         flex-direction: column;
@@ -55,7 +55,7 @@ body {
         max-width: 90vw; 
     }
     #home-overlay {
-        min-height: 65vh;
+        min-height: 75vh;
         display: flex;
         position: fixed;
         width: 100vw;
